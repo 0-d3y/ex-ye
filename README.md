@@ -1,9 +1,7 @@
 # ex-ye
 It is a metasploit exploit tool to exploit vulnerabilities in servers and devices It also works for testing
 # Exploit Yemen  By Mr Sami
-A new scanner tool is the shortcut nmap commands with a simple interface
-I do not bear legal responsibility !!
-Don't forget to follow me
+
 #### Follow all new on [Telegram](https://t.me/Hack_4x)
 <a href="https://cyberyemen.blogspot.com"><img src="https://k.top4top.io/p_22906yj3d1.jpg" alt="s>
 
