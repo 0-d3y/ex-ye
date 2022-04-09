@@ -12,8 +12,8 @@ It is a metasploit exploit tool to exploit vulnerabilities in servers and device
 4. <code>pip2 install colorama </code>
 5. <code>pkg install bash </code>
 6. <code>git clone https://github.com/mr-sami-x/ex-ye.git</code>
-7. <code>cd hack-ye</code>
-8. <code>chmod +x hack-ye </code>
+7. <code>cd ex-ye</code>
+8. <code>chmod +x ex-ye </code>
 9. <code>bash hack-ye.sh</code><br><br>
 
 
