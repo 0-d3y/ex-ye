@@ -94,7 +94,7 @@ back
 }
 
 function info_me(){
-        echo -e "\n$green GitHub profile $green:$white https://github.com/SAMIV10X$nc"
+        echo -e "\n$green GitHub profile $green:$white https://github.com/mr-sami-x$nc"
         echo -e "$red YouTbue channel$green:$white https://youtube.com/c/The-Yemeni-Ghost$nc"
         echo -e "$purple Ask Fm (Telegram  me)$green:$white https://t.me/Hack_4x$nc"
         echo -e "$blue E-mail address$green :$white mr_q7@outlook.sa$nc"
